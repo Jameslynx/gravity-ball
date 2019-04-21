@@ -5,6 +5,6 @@ clone repository
 #
 on your Terminal run
 # $pip3 install pygame
-# $cd ball-game
+# $cd gravity-ball
 # $python3 ball_game.py
 
